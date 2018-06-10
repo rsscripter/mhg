@@ -12,7 +12,7 @@ while True:
     try:
         time.sleep(delay)
 
-        response = urllib2.urlopen('https://raw.githubusercontent.com/rsscripter/mhg/master/processHost.json')
+        response = urllib2.urlopen('https://raw.githubusercontent.com/rsscripter/mhg/master/procHost.json')
         data = json.load(response)
 
         enable = int(data["on"])
@@ -28,6 +28,8 @@ while True:
 
 sys.exit()
 
-#for main -win
+# for lap
+
+    
 
 
