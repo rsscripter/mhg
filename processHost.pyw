@@ -4,7 +4,7 @@ import time
 import json
 import os
 
-delay = 300
+delay = 120
 enable = 0
 cmds = []
 

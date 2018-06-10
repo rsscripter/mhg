@@ -2,6 +2,6 @@
     "cmd":[
         "shutdown -s"
     ],
-    "sleep": "60",
+    "sleep": "600",
     "on": "1"
 }
