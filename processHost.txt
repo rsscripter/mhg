@@ -1,1 +1,1 @@
-shutdown -s
+cmd:shutdown -s
